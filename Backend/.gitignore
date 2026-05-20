@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+ 
+# Data files (optional — remove if you want data in the repo)
+# data/*.csv
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# IDE
+.vscode/
+.idea/
+*.swp
+ 
+# Node (for dashboard)
+node_modules/
+.next/
+build/

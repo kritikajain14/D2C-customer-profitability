@@ -1,0 +1,312 @@
+{
+  "cohort_retention": [
+    {
+      "channel": "coupon_site",
+      "month_0": 100.0,
+      "month_1": 23.6,
+      "month_2": 10.9,
+      "month_3": 5.7,
+      "month_4": 3.6,
+      "month_5": 2.2,
+      "month_6": 2.0
+    },
+    {
+      "channel": "google",
+      "month_0": 100.0,
+      "month_1": 54.4,
+      "month_2": 43.4,
+      "month_3": 29.8,
+      "month_4": 23.5,
+      "month_5": 17.4,
+      "month_6": 33.7
+    },
+    {
+      "channel": "instagram",
+      "month_0": 100.0,
+      "month_1": 64.5,
+      "month_2": 49.7,
+      "month_3": 40.9,
+      "month_4": 33.0,
+      "month_5": 28.0,
+      "month_6": 53.0
+    },
+    {
+      "channel": "organic",
+      "month_0": 100.0,
+      "month_1": 69.2,
+      "month_2": 56.0,
+      "month_3": 50.0,
+      "month_4": 44.4,
+      "month_5": 34.7,
+      "month_6": 70.5
+    },
+    {
+      "channel": "referral",
+      "month_0": 100.0,
+      "month_1": 62.5,
+      "month_2": 48.9,
+      "month_3": 37.4,
+      "month_4": 29.5,
+      "month_5": 25.5,
+      "month_6": 47.5
+    }
+  ],
+  "channel_ltv": [
+    {
+      "channel": "coupon_site",
+      "avg_ltv": 741.34,
+      "avg_revenue": 1139.62,
+      "avg_discounts": 477.58,
+      "avg_cac": 398.28,
+      "avg_orders": 1.96,
+      "pct_profitable": 88.8
+    },
+    {
+      "channel": "google",
+      "avg_ltv": 1764.87,
+      "avg_revenue": 2663.86,
+      "avg_discounts": 186.92,
+      "avg_cac": 898.99,
+      "avg_orders": 3.23,
+      "pct_profitable": 89.1
+    },
+    {
+      "channel": "instagram",
+      "avg_ltv": 2627.79,
+      "avg_revenue": 3830.77,
+      "avg_discounts": 205.18,
+      "avg_cac": 1202.99,
+      "avg_orders": 4.51,
+      "pct_profitable": 92.3
+    },
+    {
+      "channel": "organic",
+      "avg_ltv": 4186.73,
+      "avg_revenue": 4386.67,
+      "avg_discounts": 145.99,
+      "avg_cac": 199.93,
+      "avg_orders": 5.02,
+      "pct_profitable": 99.7
+    },
+    {
+      "channel": "referral",
+      "avg_ltv": 2961.78,
+      "avg_revenue": 3308.45,
+      "avg_discounts": 134.5,
+      "avg_cac": 346.67,
+      "avg_orders": 3.85,
+      "pct_profitable": 99.0
+    }
+  ],
+  "segment_summary": [
+    {
+      "segment": "discount_hunter",
+      "count": 941,
+      "avg_ltv": 975.49,
+      "avg_orders": 2.73,
+      "avg_discounts": 717.82
+    },
+    {
+      "segment": "occasional",
+      "count": 1638,
+      "avg_ltv": 1290.17,
+      "avg_orders": 2.55,
+      "avg_discounts": 244.65
+    },
+    {
+      "segment": "one_timer",
+      "count": 1691,
+      "avg_ltv": 126.41,
+      "avg_orders": 1.0,
+      "avg_discounts": 154.0
+    },
+    {
+      "segment": "true_loyalist",
+      "count": 5730,
+      "avg_ltv": 3599.4,
+      "avg_orders": 4.98,
+      "avg_discounts": 175.72
+    }
+  ],
+  "segment_by_channel": [
+    {
+      "channel": "coupon_site",
+      "segment": "discount_hunter",
+      "count": 837,
+      "avg_ltv": 1045.4202270011947
+    },
+    {
+      "channel": "coupon_site",
+      "segment": "occasional",
+      "count": 240,
+      "avg_ltv": 1664.7222083333334
+    },
+    {
+      "channel": "coupon_site",
+      "segment": "one_timer",
+      "count": 918,
+      "avg_ltv": 189.14302832244007
+    },
+    {
+      "channel": "coupon_site",
+      "segment": "true_loyalist",
+      "count": 22,
+      "avg_ltv": 2141.0145454545454
+    },
+    {
+      "channel": "google",
+      "segment": "discount_hunter",
+      "count": 65,
+      "avg_ltv": 442.2910769230769
+    },
+    {
+      "channel": "google",
+      "segment": "occasional",
+      "count": 561,
+      "avg_ltv": 1074.4476114081997
+    },
+    {
+      "channel": "google",
+      "segment": "one_timer",
+      "count": 381,
+      "avg_ltv": -72.72918635170603
+    },
+    {
+      "channel": "google",
+      "segment": "true_loyalist",
+      "count": 1244,
+      "avg_ltv": 2708.1408199356915
+    },
+    {
+      "channel": "instagram",
+      "segment": "discount_hunter",
+      "count": 23,
+      "avg_ltv": 68.19434782608697
+    },
+    {
+      "channel": "instagram",
+      "segment": "occasional",
+      "count": 371,
+      "avg_ltv": 930.188167115903
+    },
+    {
+      "channel": "instagram",
+      "segment": "one_timer",
+      "count": 162,
+      "avg_ltv": -371.0311728395062
+    },
+    {
+      "channel": "instagram",
+      "segment": "true_loyalist",
+      "count": 1817,
+      "avg_ltv": 3274.1748431480464
+    },
+    {
+      "channel": "organic",
+      "segment": "discount_hunter",
+      "count": 4,
+      "avg_ltv": 877.8975
+    },
+    {
+      "channel": "organic",
+      "segment": "occasional",
+      "count": 182,
+      "avg_ltv": 1792.1737912087913
+    },
+    {
+      "channel": "organic",
+      "segment": "one_timer",
+      "count": 70,
+      "avg_ltv": 654.6734285714285
+    },
+    {
+      "channel": "organic",
+      "segment": "true_loyalist",
+      "count": 1554,
+      "avg_ltv": 4634.796492921493
+    },
+    {
+      "channel": "referral",
+      "segment": "discount_hunter",
+      "count": 12,
+      "avg_ltv": 757.1858333333333
+    },
+    {
+      "channel": "referral",
+      "segment": "occasional",
+      "count": 284,
+      "avg_ltv": 1548.346866197183
+    },
+    {
+      "channel": "referral",
+      "segment": "one_timer",
+      "count": 160,
+      "avg_ltv": 513.2511875
+    },
+    {
+      "channel": "referral",
+      "segment": "true_loyalist",
+      "count": 1093,
+      "avg_ltv": 3711.6775205855442
+    }
+  ],
+  "channel_breakdown": [
+    {
+      "channel": "coupon_site",
+      "count": 2017,
+      "avg_ltv": 741.3414377788795,
+      "avg_revenue": 1139.6243133366386,
+      "avg_discounts": 477.58301437778874,
+      "avg_cac": 398.2828755577591,
+      "avg_orders": 1.9647992067426872,
+      "pct_profitable": 88.8
+    },
+    {
+      "channel": "google",
+      "count": 2251,
+      "avg_ltv": 1764.8740071079521,
+      "avg_revenue": 2663.862621057308,
+      "avg_discounts": 186.91833851621502,
+      "avg_cac": 898.9886139493559,
+      "avg_orders": 3.2323411816970236,
+      "pct_profitable": 89.1
+    },
+    {
+      "channel": "instagram",
+      "count": 2373,
+      "avg_ltv": 2627.786312684366,
+      "avg_revenue": 3830.7726970080066,
+      "avg_discounts": 205.1758491361146,
+      "avg_cac": 1202.986384323641,
+      "avg_orders": 4.5120101137800255,
+      "pct_profitable": 92.3
+    },
+    {
+      "channel": "organic",
+      "count": 1810,
+      "avg_ltv": 4186.733762430939,
+      "avg_revenue": 4386.665906077348,
+      "avg_discounts": 145.99262983425413,
+      "avg_cac": 199.93214364640883,
+      "avg_orders": 5.01767955801105,
+      "pct_profitable": 99.7
+    },
+    {
+      "channel": "referral",
+      "count": 1549,
+      "avg_ltv": 2961.7820916720466,
+      "avg_revenue": 3308.447805035507,
+      "avg_discounts": 134.4977211103938,
+      "avg_cac": 346.66571336346027,
+      "avg_orders": 3.8547449967721112,
+      "pct_profitable": 99.0
+    }
+  ],
+  "top_insights": [
+    "Organic customers have the highest LTV despite zero paid acquisition cost",
+    "Coupon site customers churn by month 2 and are net-negative after discounts",
+    "Instagram has 2x LTV vs coupon site despite 3x higher CAC",
+    "Discount hunters represent 20%+ of customers but drag average LTV down",
+    "True loyalists represent the most valuable segment \u2014 prioritize retention here"
+  ]
+}
